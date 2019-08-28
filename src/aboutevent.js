@@ -15,6 +15,7 @@ export default class Aboutevent extends Component {
                 </div>
                 <div className="col-lg-3">
                   <h3>When</h3>
+                  
                   <p> Wednesday to Friday<br />25-27 September</p>
                 </div>
               </div>
@@ -24,3 +25,4 @@ export default class Aboutevent extends Component {
         )
       }
     }
+    // it is just a commit
